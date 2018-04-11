@@ -1,7 +1,7 @@
 Jenkins tips
 =====================
 
-### Description
+### Description$$
 
 Groovy DSL scripts to customize your workflow with Jenkins 2.x
 
